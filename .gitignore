@@ -1,0 +1,10 @@
+# Dossier de compilation Rust
+/target
+
+# Fichiers IDE (optionnel)
+.idea/
+.vscode/
+
+# Fichiers temporaires
+*.tmp
+*.swp
