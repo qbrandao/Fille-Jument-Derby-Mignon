@@ -1,0 +1,18 @@
+[package]
+name = "FilleJument-Derby-Mignon"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "FilleJument-Derby-Mignon"
+path = "src/main.rs"
+
+[dependencies]
+bevy = "0.18.1"
+
+[profile.dev]
+opt-level = 1
+
+[profile.dev.package."*"]
+opt-level = 3
+
