@@ -1,12 +1,12 @@
 # Soundtrack
-- Main Menu :
-- Training Junior :
-- Training Classic : Offenbach - Infernal Galop, Piazzolla - Fuga y Misterio
+- Main Menu : Debussy - Deux Arabesques L. 66 No. 1 in E Major Andantino con moto
+- Training Junior : Debussy - Ballade L. 70, Debussy - Préludes Livre 1 L. 117 No. 8 La fille aux cheveux de lin, Satie - Gnossiennes No. 5 Modéré, Faurè - Dolly Op. 56 No. 5 in D-Flat Major Tendresse
+- Training Classic : Offenbach - Infernal Galop, Piazzolla - Fuga y Misterio, Saint-Saëns - The Carnival of the Animals XIII The Swan
 - Training Senior : Verdi - Requiem II Dies Irae, Mozart - Requiem III Dies Irae, Orff - Carmina Burana O Fortuna  
-- Racing Maiden :
-- Racing Listed :
+- Racing Maiden : Jean Philippe Rameau - suite in G minor
+- Racing Listed : Ravel - VI. Toccata
 - Racing G3 : Bizet - L'Arlesienne Suite no.2 IV Farandole
 - Racing G2 : Litninovsky - Pelleas and Mélissande VII La Chasse Commence, Saint-Saëns - Piano Concerto No. 2 in G Minor Op. 22 III. Presto
 - Racing G1 : Vivaldi - The Four Seasons Violin Concerto No. 1 in E Major RV 269 "Spring" I. Allegro, Vivaldi - The Four Seasons Violin Concerto No. 2 in G Minor RV 315 "Summer" III. Presto, Vivaldi - The Four Seasons Violin Concerto No. 3 in F Major RV 293 "Autumn" III. Allegro
-- L'Arc :
+- L'Arc : Lucas Nainemoutou - Prix de l'Arc de Triomphe, Lucas Nainemoutou - Prix de l'Arc de Triomphe The Last Competition
 - Racing Finale : Vivaldi - The Four Seasons Violin Concerto No. 4 in F Minor RV 297 "Winter" I. Allegro non molto
