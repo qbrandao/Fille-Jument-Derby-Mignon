@@ -1,0 +1,12 @@
+# Soundtrack
+- Main Menu :
+- Training Junior :
+- Training Classic : Offenbach - Infernal Galop, Piazzolla - Fuga y Misterio
+- Training Senior : Verdi - Requiem II Dies Irae, Mozart - Requiem III Dies Irae, Orff - Carmina Burana O Fortuna  
+- Racing Maiden :
+- Racing Listed :
+- Racing G3 : Bizet - L'Arlesienne Suite no.2 IV Farandole
+- Racing G2 : Litninovsky - Pelleas and Mélissande VII La Chasse Commence, Saint-Saëns - Piano Concerto No. 2 in G Minor Op. 22 III. Presto
+- Racing G1 : Vivaldi - The Four Seasons Violin Concerto No. 1 in E Major RV 269 "Spring" I. Allegro, Vivaldi - The Four Seasons Violin Concerto No. 2 in G Minor RV 315 "Summer" III. Presto, Vivaldi - The Four Seasons Violin Concerto No. 3 in F Major RV 293 "Autumn" III. Allegro
+- L'Arc :
+- Racing Finale : Vivaldi - The Four Seasons Violin Concerto No. 4 in F Minor RV 297 "Winter" I. Allegro non molto
