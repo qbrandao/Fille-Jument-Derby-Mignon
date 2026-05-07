@@ -1,7 +1,7 @@
 [package]
 name = "FilleJument-Derby-Mignon"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 assets = ["assets/"]
 
 [[bin]]
@@ -9,7 +9,7 @@ name = "FilleJument-Derby-Mignon"
 path = "src/main.rs"
 
 [dependencies]
-bevy = "0.18.1"
+bevy = "0.18"
 
 [profile.dev]
 opt-level = 1
